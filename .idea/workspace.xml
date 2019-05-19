@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8535bd41-75eb-4b9b-a123-58c4834edfd9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/beginner/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intermediate/table.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner/Styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/Styles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner/fonts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/images.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beginner/lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/lists.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/GitHub.png" beforeDir="false" afterPath="$PROJECT_DIR$/sources/GitHub.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Instagram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sources/Instagram.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/YouTube.png" beforeDir="false" afterPath="$PROJECT_DIR$/sources/YouTube.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/basic elements of an HTML page.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/beginner/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/Styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/intermediate/Styles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/classes.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,34 +19,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/intermediate/Styles.html">
+        <entry file="file://$PROJECT_DIR$/intermediate/table.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#1;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#2;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#3;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#4;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#5;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#6;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#7;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#8;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#9;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#10;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#11;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#12;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#13;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#14;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#15;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#16;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#17;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#18;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#19;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#20;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="15" selection-start-line="15" selection-end-line="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intermediate/links.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -70,7 +53,6 @@
       <list>
         <option value="$PROJECT_DIR$/links.html" />
         <option value="$PROJECT_DIR$/beginner/hello_world.html" />
-        <option value="$PROJECT_DIR$/beginner/links.html" />
         <option value="$PROJECT_DIR$/intermediate/classes.html" />
         <option value="$PROJECT_DIR$/intermediate/taller.html" />
         <option value="$PROJECT_DIR$/beginner/fonts.html" />
@@ -78,7 +60,12 @@
         <option value="$PROJECT_DIR$/beginner/paragraph.html" />
         <option value="$PROJECT_DIR$/beginner/images.html" />
         <option value="$PROJECT_DIR$/beginner/lists.html" />
+        <option value="$PROJECT_DIR$/beginner/links.html" />
         <option value="$PROJECT_DIR$/intermediate/Styles.html" />
+        <option value="$PROJECT_DIR$/beginner/table.html" />
+        <option value="$PROJECT_DIR$/intermediate/Links.html" />
+        <option value="$PROJECT_DIR$/intermediate/links.html" />
+        <option value="$PROJECT_DIR$/intermediate/table.html" />
       </list>
     </option>
   </component>
@@ -235,24 +222,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/links.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/intermediate/classes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/paragraph.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -282,10 +255,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/beginner/paragraph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginner/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beginner/links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/intermediate/Styles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        <state relative-caret-position="374">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#body#0;n#!!top" expanded="true" />
@@ -295,7 +292,6 @@
             <element signature="n#style#0;n#p#4;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#5;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#6;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#7;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#8;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#9;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#10;n#body#0;n#!!top" expanded="true" />
@@ -305,11 +301,25 @@
             <element signature="n#style#0;n#p#14;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#15;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#16;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#17;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#18;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#19;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#20;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#21;n#body#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intermediate/links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intermediate/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="15" selection-start-line="15" selection-end-line="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
