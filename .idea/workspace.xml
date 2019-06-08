@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8535bd41-75eb-4b9b-a123-58c4834edfd9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/intermediate/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/intermediate/div.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Advanced/layouts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/1. Beginner/images.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/1. Beginner/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/1. Beginner/lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/paragraph.html" beforeDir="false" afterPath="$PROJECT_DIR$/1. Beginner/paragraph.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beginner/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/1. Beginner/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/Styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/2. Intermediate/styles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/2. Intermediate/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/div.html" beforeDir="false" afterPath="$PROJECT_DIR$/2. Intermediate/div.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/links.html" beforeDir="false" afterPath="$PROJECT_DIR$/2. Intermediate/links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediate/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/2. Intermediate/table.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,18 +23,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intermediate/table.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intermediate/div.html">
+        <entry file="file://$PROJECT_DIR$/2. Intermediate/div.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
@@ -33,19 +34,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/intermediate/classes.html">
+        <entry file="file://$PROJECT_DIR$/3. Advanced/layouts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intermediate/links.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -82,14 +74,14 @@
         <option value="$PROJECT_DIR$/intermediate/div.html" />
         <option value="$PROJECT_DIR$/intermediate/id &amp; classes.html" />
         <option value="$PROJECT_DIR$/intermediate/classes.html" />
+        <option value="$PROJECT_DIR$/3. Advanced/layouts.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -107,12 +99,12 @@
             <path>
               <item name="Html_Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Html_Course" type="462c0819:PsiDirectoryNode" />
-              <item name="beginner" type="462c0819:PsiDirectoryNode" />
+              <item name="1. Beginner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Html_Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Html_Course" type="462c0819:PsiDirectoryNode" />
-              <item name="intermediate" type="462c0819:PsiDirectoryNode" />
+              <item name="2. Intermediate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Html_Course" type="b2602c69:ProjectViewProjectNode" />
@@ -227,25 +219,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/hello_world.html" />
     <entry file="file://$PROJECT_DIR$/links.html" />
-    <entry file="file://$PROJECT_DIR$/sources/basic elements of an HTML page.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sources/basic elements of an HTML page.JPG" />
     <entry file="file://$PROJECT_DIR$/beginner/headers.html" />
-    <entry file="file://$PROJECT_DIR$/intermediate/taller.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intermediate/classes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/lists.html">
+    <entry file="file://$PROJECT_DIR$/intermediate/taller.html" />
+    <entry file="file://$PROJECT_DIR$/1. Beginner/lists.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="41" selection-start-line="41" selection-end-line="45" selection-end-column="8" />
@@ -257,21 +234,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/fonts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/images.html">
+    <entry file="file://$PROJECT_DIR$/beginner/fonts.html" />
+    <entry file="file://$PROJECT_DIR$/1. Beginner/images.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="49" lean-forward="true" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/table.html">
+    <entry file="file://$PROJECT_DIR$/1. Beginner/table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1343">
           <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
@@ -281,17 +252,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/links.html">
+    <entry file="file://$PROJECT_DIR$/1. Beginner/links.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intermediate/Styles.html">
+    <entry file="file://$PROJECT_DIR$/2. Intermediate/links.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="31" />
+        <state relative-caret-position="152">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Beginner/paragraph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Intermediate/classes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Intermediate/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. Intermediate/styles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding>
             <element signature="n#style#0;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#body#0;n#!!top" expanded="true" />
@@ -301,6 +300,7 @@
             <element signature="n#style#0;n#p#4;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#5;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#6;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#7;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#8;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#9;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#10;n#body#0;n#!!top" expanded="true" />
@@ -318,38 +318,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intermediate/links.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beginner/paragraph.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intermediate/table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intermediate/div.html">
+    <entry file="file://$PROJECT_DIR$/2. Intermediate/div.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intermediate/classes.html">
+    <entry file="file://$PROJECT_DIR$/3. Advanced/layouts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
