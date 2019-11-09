@@ -1,1 +1,3 @@
-# HelloWorld_html
+# HelloWorld
+
+Basic examples about html pages
