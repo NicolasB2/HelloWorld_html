@@ -1,3 +1,3 @@
 # HelloWorld
 
-Basic examples about html pages
+Basic examples about html
